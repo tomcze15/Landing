@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/Landing/static/css/main.962edcda.chunk.css",
+    "main.js": "/Landing/static/js/main.d03378ef.chunk.js",
+    "main.js.map": "/Landing/static/js/main.d03378ef.chunk.js.map",
+    "runtime-main.js": "/Landing/static/js/runtime-main.50811f45.js",
+    "runtime-main.js.map": "/Landing/static/js/runtime-main.50811f45.js.map",
+    "static/js/2.60e1b0f9.chunk.js": "/Landing/static/js/2.60e1b0f9.chunk.js",
+    "static/js/2.60e1b0f9.chunk.js.map": "/Landing/static/js/2.60e1b0f9.chunk.js.map",
+    "index.html": "/Landing/index.html",
+    "static/css/main.962edcda.chunk.css.map": "/Landing/static/css/main.962edcda.chunk.css.map",
+    "static/js/2.60e1b0f9.chunk.js.LICENSE.txt": "/Landing/static/js/2.60e1b0f9.chunk.js.LICENSE.txt",
+    "static/media/googleplay-button-1.797a67ce.png": "/Landing/static/media/googleplay-button-1.797a67ce.png",
+    "static/media/image-1.27d527b4.png": "/Landing/static/media/image-1.27d527b4.png",
+    "static/media/image-2.09209feb.png": "/Landing/static/media/image-2.09209feb.png",
+    "static/media/image-3.cd440c8f.png": "/Landing/static/media/image-3.cd440c8f.png",
+    "static/media/image-landing-2-dektop.e24a4226.png": "/Landing/static/media/image-landing-2-dektop.e24a4226.png",
+    "static/media/image-landing-2-folder-right.048ee9b4.png": "/Landing/static/media/image-landing-2-folder-right.048ee9b4.png",
+    "static/media/image-landing-2-folder.528afe49.png": "/Landing/static/media/image-landing-2-folder.528afe49.png",
+    "static/media/image-landing-2-mobile.d1e67e86.png": "/Landing/static/media/image-landing-2-mobile.d1e67e86.png",
+    "static/media/image-landing-2-money.6f924893.png": "/Landing/static/media/image-landing-2-money.6f924893.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.50811f45.js",
+    "static/js/2.60e1b0f9.chunk.js",
+    "static/css/main.962edcda.chunk.css",
+    "static/js/main.d03378ef.chunk.js"
+  ]
+}
